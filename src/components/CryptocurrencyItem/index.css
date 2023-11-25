@@ -1,0 +1,25 @@
+.list {
+  padding: 5px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: #000000;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+}
+.currency-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.currency {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.logo-list {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
